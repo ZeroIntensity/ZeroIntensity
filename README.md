@@ -1,18 +1,13 @@
 # ZeroIntensity
 hello, i'm zerointensity. i code mainly python, but do some other stuff in C#, JS, and frontend development. 
 ## Projects
-### Finished
-**Note:** These aren't fully finished, they get updates.
-- Reaction Image API ([reaction.lol](https://reaction.lol))
-- My Website ([zintensity.net](https://zintensity.net))
-- Discord Bot Creator ([ZeroBotMaker](https://github.com/ZeroIntensity/ZeroBotMaker))
+im gonna only put my notable projects here.
 
-### Unfinished
-- Multipurpose discord bot ([Zlyce](https://github.com/ZeroIntensity/Zlyce))
-- Command line tool ([Control Manual](https://github.com/ZeroIntensity/ControlManual))
-
+- [ZeroBotMaker](https://github.com/ZeroIntensity/ZeroBotMaker)
+- [Hoist](https://github.com/ZeroIntensity/Hoist)
+- [RoboCollab](https://github.com/ZeroIntensity/RoboCollab)
 
 ## Contact
-- zerointensity#0101
+- **Discord:** zerointensity#0101
 - [Twitter](https://twitter.com/ZintensityDev)
 - [YouTube](https://youtube.com/ZeroIntensity)
