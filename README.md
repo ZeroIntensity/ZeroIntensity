@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!</h1>
-I am a 13 year old software developer who likes writing webservers and command line apps.
+I am a 13 year old developer who likes writing webservers and command line apps.
 
 ## Info
 
