@@ -14,6 +14,7 @@ I am a 13 year old developer who likes writing webservers and command line apps.
 
 - Rust
 - C++
+- C
 
 ## Social Media
 
