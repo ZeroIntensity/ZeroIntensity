@@ -9,11 +9,11 @@ I am a 13 year old developer who likes writing webservers and command line apps.
 - TypeScript/JavaScript
 - C#
 - Java
+- C++
 
 ### Languages I am learning:
 
 - Rust
-- C++
 - C
 
 ## Social Media
