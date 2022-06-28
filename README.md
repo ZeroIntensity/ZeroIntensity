@@ -10,11 +10,11 @@ I am a 14 year old developer who likes writing libraries, webservers, and comman
 - C#
 - Java
 - C++
+- C
 
 ### Languages I am learning:
 
 - Rust
-- C
 
 ## Social Media
 
