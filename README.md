@@ -15,6 +15,7 @@ I am a 14 year old developer who likes writing libraries, webservers, and comman
 ### Languages I am learning:
 
 - Rust
+- x86 ASM
 
 ## Social Media
 
