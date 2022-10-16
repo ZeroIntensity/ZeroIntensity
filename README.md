@@ -6,7 +6,7 @@ I am a 14 year old developer who likes writing libraries, websites, and command 
 ### Languages I currently know:
 
 - Python
-- TypeScript/JavaScript
+- TypeScript and JavaScript
 - C#
 - Java
 - C++
