@@ -20,4 +20,4 @@ I am a 14 year old developer who likes writing libraries, websites, and command 
 ## Social Media
 
 - Discord: **zerointensity#0101**
-- Twitter: [@ZintensityDev](https://twitter.com/ZIntensityDev)
+- Twitter: [@Zintensity](https://twitter.com/ZIntensity)
