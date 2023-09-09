@@ -1,23 +1,25 @@
 <h1 align="center">Welcome!</h1>
-I am a 15 year old developer who likes writing libraries, websites, and command line apps.
+I am a 15 year old developer who likes to build things for the sake of building.
 
-## Info
+I specialize in Python and C, especially when you mix the two, but am also fluent in:
 
-### Languages I currently know:
-
-- Python
-- TypeScript and JavaScript
-- C#
-- Java
 - C++
-- C
+- Java
+- C#
+- TypeScript (and JavaScript)
 
-### Languages I am learning:
+## My Projects
 
-- Rust
-- x86 ASM
+[pointers.py](https://github.com/ZeroIntensity/pointers.py) is easily what I'm known for best, but it's not really practical in the real world. I wrote it for fun and to prove a point.
 
-## Social Media
+[view.py](https://github.com/ZeroIntensity/view.py) is my best work, go give it a star if you would like.
+
+[Hoist](https://github.com/ZeroIntensity/hoist) was a rewrite of one of my early ideas. It never got much traction.
+
+[controlmanual](https://github.com/ZeroIntensity/controlmanual) is unfinished, but also some of my best work.
+
+## Contact
 
 - Discord: **zerointensity#0101**
 - Twitter: [@Zintensity](https://twitter.com/ZIntensity)
+- Email: zintensitydev@gmail.com
