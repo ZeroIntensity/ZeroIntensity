@@ -14,9 +14,9 @@ I specialize in Python and C, especially when you mix the two, but am also fluen
 
 [view.py](https://github.com/ZeroIntensity/view.py) is my best work, go give it a star if you would like.
 
-[Hoist](https://github.com/ZeroIntensity/hoist) was a rewrite of one of my early ideas. It never got much traction.
+## Support my work
 
-[controlmanual](https://github.com/ZeroIntensity/controlmanual) is unfinished, but also some of my best work.
+Open source isn't super sustainable. To support my work, you can [sponsor me](https://github.com/sponsors/ZeroIntensity).
 
 ## Contact
 
