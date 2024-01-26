@@ -3,8 +3,8 @@ I am a 15 year old developer who likes to build things for the sake of building.
 
 I tend to work with:
 
-- **Python**
-- **C**
+- Python
+- C
 - TypeScript
 - Java
 - C++
