@@ -1,12 +1,14 @@
 <h1 align="center">Welcome!</h1>
 I am a 15 year old developer who likes to build things for the sake of building.
 
-I specialize in Python and C, especially when you mix the two, but am also fluent in:
+I tend to work with:
 
-- C++
+- **Python**
+- **C**
+- TypeScript
 - Java
+- C++
 - C#
-- TypeScript (and JavaScript)
 
 ## My Projects
 
