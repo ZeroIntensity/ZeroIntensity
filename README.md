@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!</h1>
-I'm a 16-year-old engineer who likes to build things for the sake of building.
+I'm a 16 year old software engineer who likes to build things for the sake of building.
 
 I tend to work with:
 
