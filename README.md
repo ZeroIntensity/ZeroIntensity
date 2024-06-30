@@ -23,7 +23,7 @@ I tend to work with:
 
 ## Support my work
 
-Open source isn't super sustainable. To support my work, you can [sponsor me](https://github.com/sponsors/ZeroIntensity) (you can also hire me via one-time sponsors).
+Open source isn't super sustainable. To support my work, you can [sponsor me](https://github.com/sponsors/ZeroIntensity) (or, you can also hire me via one-time sponsors).
 
 ## Contact
 
