@@ -12,9 +12,8 @@ I tend to work with:
 
 ## My Projects
 
-[pointers.py](https://github.com/ZeroIntensity/pointers.py) is easily what I'm known for best, but it's not really practical in the real world. I wrote it for fun and to prove a point.
-
-[view.py](https://github.com/ZeroIntensity/view.py) is my best work and passion project.
+- [pointers.py](https://github.com/ZeroIntensity/pointers.py) is easily what I'm known for best, but it's not really practical in the real world. I wrote it for fun and to prove a point.
+- [view.py](https://github.com/ZeroIntensity/view.py) is my best work and passion project.
 
 ### Some smaller projects
 
