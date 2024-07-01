@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!</h1>
-I'm a 16-year-old software engineer that primarily develops open source code.
+I'm a 16-year-old software engineer who primarily develops open-source code.
 
 I tend to work with:
 
@@ -17,7 +17,7 @@ I tend to work with:
 
 ### Some smaller projects
 
-- [pyawaitable](https://github.com/ZeroIntensity/pyawaitable), an API for calling asynchronous Python code from a CPython extension - this is the secret sauce that makes view.py so fast.
+- [pyawaitable](https://github.com/ZeroIntensity/pyawaitable), an API for calling asynchronous Python code from a CPython extension.
 - [prompts.py](https://github.com/ZeroIntensity/prompts.py), a package for beautiful inputs, especially with [click](https://click.palletsprojects.com).
 
 ## Support my work
