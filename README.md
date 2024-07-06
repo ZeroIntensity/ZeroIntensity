@@ -1,14 +1,6 @@
 <h1 align="center">Welcome!</h1>
-I'm a 16-year-old software engineer who primarily develops open-source code.
 
-I tend to work with:
-
-- Python
-- C
-- TypeScript
-- Java
-- C++
-- C#
+Hi there! I'm 16 and tend to write open-source libraries.
 
 ## My Projects
 
@@ -19,6 +11,13 @@ I tend to work with:
 
 - [pyawaitable](https://github.com/ZeroIntensity/pyawaitable), an API for calling asynchronous Python code from a CPython extension.
 - [prompts.py](https://github.com/ZeroIntensity/prompts.py), a package for beautiful inputs, especially with [click](https://click.palletsprojects.com).
+
+### Joke projects
+
+- [namespaces.py](https://github.com/ZeroIntensity/namespaces.py)
+- [privates.py](https://github.com/ZeroIntensity/privates.py)
+- [mutstring](https://github.com/ZeroIntensity/mutstring)
+- [snakedict](https://github.com/ZeroIntensity/snakedict)
 
 ## Support my work
 
