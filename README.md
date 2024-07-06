@@ -14,10 +14,10 @@ Hi there! I'm 16 and tend to write open-source libraries.
 
 ### Joke projects
 
-- [namespaces.py](https://github.com/ZeroIntensity/namespaces.py)
-- [privates.py](https://github.com/ZeroIntensity/privates.py)
-- [mutstring](https://github.com/ZeroIntensity/mutstring)
-- [snakedict](https://github.com/ZeroIntensity/snakedict)
+- [namespaces.py](https://github.com/ZeroIntensity/namespaces.py), silly `::` syntax for Python.
+- [mutstring](https://github.com/ZeroIntensity/mutstring), patch into string methods to allow mutation of the internal object.
+- [privates.py](https://github.com/ZeroIntensity/privates.py), access modification for Python.
+- [snakedict](https://github.com/ZeroIntensity/snakedict), change `camelCase` dictionary keys to `snake_case`.
 
 ## Support my work
 
