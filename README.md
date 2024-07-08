@@ -4,7 +4,7 @@ Hi there! I'm 16 and tend to write open-source libraries.
 
 ## My Projects
 
-- [pointers.py](https://github.com/ZeroIntensity/pointers.py) is what I'm known for best, but it's not really practical in the real world. I wrote it for fun and to prove a point.
+- [pointers.py](https://github.com/ZeroIntensity/pointers.py) is what I'm known for, but it's not really practical in the real world. I wrote it for fun and to prove a point.
 - [view.py](https://github.com/ZeroIntensity/view.py) is my best work and main focus, as of now.
 
 ### Some smaller projects
