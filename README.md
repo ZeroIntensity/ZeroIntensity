@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-Hi there! I'm 16 and tend to write open-source libraries.
+I'm 16 and tend to write open-source libraries.
 
 ## My Projects
 
