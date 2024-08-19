@@ -5,11 +5,11 @@ I'm 16 and tend to write open-source libraries.
 ## My Projects
 
 - [pointers.py](https://github.com/ZeroIntensity/pointers.py) is what I'm known for, but it's not really practical in the real world. I wrote it for fun and to prove a point.
-- [view.py](https://github.com/ZeroIntensity/view.py) is my best work and main focus, as of now.
+- [view.py](https://github.com/ZeroIntensity/view.py) is my main focus, as of now.
 
 ### Some smaller projects
 
-- [pyawaitable](https://github.com/ZeroIntensity/pyawaitable), an API for calling asynchronous Python code from a CPython extension.
+- [pyawaitable](https://github.com/ZeroIntensity/pyawaitable), a library for calling asynchronous Python code from an extension module.
 - [prompts.py](https://github.com/ZeroIntensity/prompts.py), a package for pretty inputs, especially with [click](https://click.palletsprojects.com).
 
 ### Joke projects
