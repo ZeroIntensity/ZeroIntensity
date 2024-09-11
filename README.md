@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-I'm 16 and tend to write or contribute to open-source libraries. Some of my notable libraries:
+I'm 16 and tend to write or contribute to open-source code. Some of my notable libraries:
 
 - [pointers.py](https://github.com/ZeroIntensity/pointers.py) is what I'm known for, but it's not really practical in the real world. I wrote it for fun and to prove a point.
 - [view.py](https://github.com/ZeroIntensity/view.py) is a web framework that I'm working on.
