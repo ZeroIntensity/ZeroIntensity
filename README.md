@@ -2,9 +2,9 @@
 
 I'm 16 and tend to write or contribute to open-source code. Some of my notable libraries:
 
-- [pointers.py](https://github.com/ZeroIntensity/pointers.py) is what I'm known for, but it's not really practical in the real world. I wrote it for fun and to prove a point.
+- [pointers.py](https://github.com/ZeroIntensity/pointers.py) is a (joke) library that I wrote to do Python manual memory management.
 - [view.py](https://github.com/ZeroIntensity/view.py) is a web framework that I'm working on.
-- [pyawaitable](https://github.com/ZeroIntensity/pyawaitable), a library for calling asynchronous Python code from an extension module.
+- [pyawaitable](https://github.com/ZeroIntensity/pyawaitable) is a library for calling asynchronous Python code from an extension module.
 
 ## Support my work
 
