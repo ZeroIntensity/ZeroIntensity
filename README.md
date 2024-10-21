@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-I'm 16 and tend to write or contribute to open-source libraries, and I also work on [Python upstream](https://github.com/python/cpython).
+I'm 16 and tend to write or contribute to open-source libraries, and I also work on [Python upstream](https://github.com/python/cpython) as a triager.
 
 ## Support my work
 
