@@ -1,10 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-I'm 16 and tend to write or contribute to open-source code. Some of my notable libraries:
-
-- [pointers.py](https://github.com/ZeroIntensity/pointers.py) is a (joke) library that I wrote to do Python manual memory management.
-- [view.py](https://github.com/ZeroIntensity/view.py) is a web framework that I'm working on.
-- [pyawaitable](https://github.com/ZeroIntensity/pyawaitable) is a library for calling asynchronous Python code from an extension module.
+I'm 16 and tend to write or contribute to open-source libraries, and I also work on [Python upstream](https://github.com/python/cpython).
 
 ## Support my work
 
