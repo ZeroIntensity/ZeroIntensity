@@ -1,4 +1,4 @@
-<h1 align="center">Welcome!</h1>
+<h1 align="center">Hello!</h1>
 
 I'm 16 and tend to write or contribute to open-source libraries, and I also work on [Python upstream](https://github.com/python/cpython) as a triager.
 
