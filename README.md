@@ -4,4 +4,4 @@ I'm 17 years old and typically write Python and C. Most notably, I work on [CPyt
 
 ## Contact
 
-I'm available on Discord @ `zerointensity`, or you can email me at zintensitydev@gmail.com
+I'm available on Discord @ `zerointensity`. Alternatively, you can email me at zintensitydev@gmail.com or peter@python.org
