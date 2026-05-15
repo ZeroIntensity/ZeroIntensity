@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Peter.</h1>
 
-I'm 17 years old and like to write code. Most notably, I work on [CPython](https://github.com/python/cpython) and [Nuitka](https://github.com/Nuitka/Nuitka).
+I'm 18 years old and like to write code. Most notably, I work on [CPython](https://github.com/python/cpython) and [Nuitka](https://github.com/Nuitka/Nuitka).
 
 ## Contact
 
